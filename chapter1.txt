@@ -1,1 +1,3 @@
 I am learning how to use Git
+So, this is me creating a branch
+I want to be the best Software Engineer I can be
